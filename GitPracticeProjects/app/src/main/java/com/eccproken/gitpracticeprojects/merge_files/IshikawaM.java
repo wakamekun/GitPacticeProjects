@@ -13,6 +13,6 @@ public class IshikawaM {
      */
     public void ishikawaSetText(TextView target) {
         // 引数を"石川マージ"に変更する
-        target.setText("");
+        target.setText("石川マージ");
     }
 }
