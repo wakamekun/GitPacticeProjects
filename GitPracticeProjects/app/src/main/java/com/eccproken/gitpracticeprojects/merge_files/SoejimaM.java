@@ -13,6 +13,6 @@ public class SoejimaM {
      */
     public void soejimaSetText(TextView target) {
         // 引数を"副島マージ"に変更する
-        target.setText("");
+        target.setText("副島マージ");
     }
 }
