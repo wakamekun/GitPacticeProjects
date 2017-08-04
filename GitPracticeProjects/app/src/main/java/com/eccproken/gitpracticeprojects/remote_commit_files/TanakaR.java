@@ -13,6 +13,6 @@ public class TanakaR {
      */
     public String returnO() {
         // 文字列 O を返すように変更
-        return "";
+        return "O";
     }
 }

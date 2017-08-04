@@ -13,6 +13,6 @@ public class IshikawaR {
      */
     public String returnH() {
         // 文字列 H を返すように変更
-        return "";
+        return "H";
     }
 }
