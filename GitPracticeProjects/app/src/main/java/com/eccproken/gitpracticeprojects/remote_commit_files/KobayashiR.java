@@ -13,6 +13,7 @@ public class KobayashiR {
      */
     public String returnE() {
         // 文字列 E を返すように変更
-        return "E";
+        return "";
     }
 }
+E
