@@ -13,6 +13,6 @@ public class SoejimaR {
      */
     public String returnL() {
         // 文字列 L を返すように変更
-        return "";
+        return "L";
     }
 }

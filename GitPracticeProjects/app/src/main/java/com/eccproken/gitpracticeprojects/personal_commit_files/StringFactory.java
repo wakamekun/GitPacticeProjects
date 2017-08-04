@@ -11,6 +11,5 @@ public class StringFactory {
      */
     public String returnString() {
         // 好きな文字列を返すように変更
-        return "眠い、ｵﾅｶｽｲﾀ";
-    }
+        return "眠い、ｵﾅｶｽｲﾀ、さしすせそ";}
 }
