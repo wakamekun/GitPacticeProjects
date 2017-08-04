@@ -14,6 +14,6 @@ public class KobayashiM {
      */
     public void kobayashiSetText(TextView target) {
         // 引数を"小林マージ"に変更する
-        target.setText("");
+        target.setText("小林マージ");
     }
 }
