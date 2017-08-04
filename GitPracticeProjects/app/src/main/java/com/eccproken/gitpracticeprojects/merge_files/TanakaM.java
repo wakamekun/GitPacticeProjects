@@ -13,6 +13,6 @@ public class TanakaM {
      */
     public void tanakaSetText(TextView target) {
         // 引数を"田中マージ"に変更する
-        target.setText("");
+        target.setText("田中マージ");
     }
 }
